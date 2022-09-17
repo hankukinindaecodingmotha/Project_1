@@ -14,7 +14,9 @@
 <img src = 'https://github.com/hankukinindaecodingmotha/Project_1/blob/master/screenshot/4.%20%EB%A9%94%EB%89%B4.PNG?raw=true'>
 
 ## [5번 메뉴 실행메뉴]
-<img src = ''>
+<img src = 'https://github.com/hankukinindaecodingmotha/Project_1/blob/master/screenshot/%EB%A9%94%EB%89%B43.PNG?raw=true'>
+<img src = 'https://github.com/hankukinindaecodingmotha/Project_1/blob/master/screenshot/5-1%EB%A9%94%EB%89%B4.PNG?raw=true'>
+<img src = 'https://github.com/hankukinindaecodingmotha/Project_1/blob/master/screenshot/5-2%EB%A9%94%EB%89%B4.PNG?raw=true'>
 
 ## [6번 메뉴 실행메뉴]
 <img src = ''>
